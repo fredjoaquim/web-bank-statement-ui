@@ -7,7 +7,7 @@ Sistema desenvolvido em Java para simulação de comprovantes e operações fina
 ## 🛠️ Tecnologias
 - Java
 - (POO — Programação Orientada a Objetos)
-- (Uso de arquivos ou/ou banco)
+- (Uso de arquivos e/ou banco)
 
 ## 🎯 Funcionalidades
 - Geração de comprovantes
