@@ -1,19 +1,24 @@
-# Bank Statement UI
-
 ## 🚀 Live Demo
-[🔗 Acessar Projeto](https://fredjoaquim.github.io/web-bank-statement-ui/)
+⚠️ Aplicação backend/local
 
 ## 📌 Sobre
-Interface simulando um comprovante bancário com foco em layout e organização visual.
+Sistema desenvolvido em Java para simulação de comprovantes e operações financeiras, com foco em lógica e estrutura de dados.
 
 ## 🛠️ Tecnologias
-- HTML5
-- CSS3
+- Java
+- (POO — Programação Orientada a Objetos)
+- (Uso de arquivos ou/ou banco)
 
 ## 🎯 Funcionalidades
-- Estrutura visual clara
-- Simulação de dados financeiros
-- Layout organizado
+- Geração de comprovantes
+- Simulação de saldo
+- Estrutura de contas
+- Organização de dados financeiros
 
-## 📷 Preview
-![Preview](./assets/preview.png)
+## ⚙️ Como executar
+```bash
+git clone https://github.com/fredjoaquim/web-bank-statement-ui
+cd web-bank-statement-ui
+
+javac Main.java
+java Main
